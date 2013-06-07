@@ -5,5 +5,7 @@
     "xkcd.coffee",
     "facepalm.coffee",
     "faceup.coffee",
-    "google.coffee"
+    "google.coffee",
+    "ruby.coffee",
+    "rubygems.coffee"
 ]
